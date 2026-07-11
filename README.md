@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Jassss-ux/Leetcode/tree/master/0051-n-queens) |
+| [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
