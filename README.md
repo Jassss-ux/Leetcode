@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Jassss-ux/Leetcode/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Jassss-ux/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
