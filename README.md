@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Jassss-ux/Leetcode/tree/master/0051-n-queens) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
