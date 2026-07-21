@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jassss-ux/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
