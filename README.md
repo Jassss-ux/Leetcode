@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jassss-ux/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Jassss-ux/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jassss-ux/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jassss-ux/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Enumeration
 |  |
 | ------- |
