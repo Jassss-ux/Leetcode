@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jassss-ux/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jassss-ux/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jassss-ux/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jassss-ux/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jassss-ux/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Jassss-ux/Leetcode/tree/master/0146-lru-cache) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3668-restore-finishing-order](https://github.com/Jassss-ux/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
 |  |
