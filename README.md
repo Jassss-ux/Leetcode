@@ -146,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jassss-ux/Leetcode/tree/master/0020-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jassss-ux/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jassss-ux/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jassss-ux/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
