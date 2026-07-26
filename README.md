@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Jassss-ux/Leetcode/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jassss-ux/Leetcode/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jassss-ux/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Jassss-ux/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Jassss-ux/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Jassss-ux/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jassss-ux/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Jassss-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Jassss-ux/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Jassss-ux/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jassss-ux/Leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jassss-ux/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jassss-ux/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
