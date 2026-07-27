@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Jassss-ux/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jassss-ux/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jassss-ux/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Jassss-ux/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jassss-ux/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Jassss-ux/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Divide and Conquer
 |  |
 | ------- |
