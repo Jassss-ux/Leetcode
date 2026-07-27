@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jassss-ux/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/Jassss-ux/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jassss-ux/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jassss-ux/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jassss-ux/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jassss-ux/Leetcode/tree/master/0020-valid-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jassss-ux/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/Jassss-ux/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jassss-ux/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
