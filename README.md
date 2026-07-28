@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jassss-ux/Leetcode/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
+| [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jassss-ux/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -205,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
