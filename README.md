@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jassss-ux/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Jassss-ux/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Jassss-ux/Leetcode/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jassss-ux/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jassss-ux/Leetcode/tree/master/0455-assign-cookies) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jassss-ux/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jassss-ux/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jassss-ux/Leetcode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Stack
 |  |
 | ------- |
