@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jassss-ux/Leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/Jassss-ux/Leetcode/tree/master/0292-nim-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jassss-ux/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jassss-ux/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jassss-ux/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jassss-ux/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jassss-ux/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jassss-ux/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jassss-ux/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jassss-ux/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jassss-ux/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
