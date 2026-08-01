@@ -1,37 +1,77 @@
 class MinStack {
 public:
-    stack<pair<int, int>> s; // val , minval ka pair contain krta hai
+    stack<long long int> s;
+    long long int minval; // Current minimum element ko store karega
+
     MinStack() {
 
     }
 
     void push(int val) {
-        if (s.empty()) { // stack khali hai toh jonse first ayega element vohi // min hoga and vohi elemnt add hoga
-            s.push({val, val});
-        } else { // ab hume min find bhi krna pdega second val push knre ke badh
-            int minval = min(val  , s.top().second);
-            s.push({val, minval});
+
+        // Agar stack khali hai to jo pehla element aayega wahi minimum hoga
+        if (s.empty()) {
+            s.push(val);
+            minval = val;
         }
+        else {
+
+            // Agar naya element current minimum se chhota hai
+            if (val < minval) {
+
+                // Actual value push nahi karte,
+                // ek encoded value push karte hain:
+                // encoded = 2*val - oldMin
+                // Isse future me old minimum recover kar sakte hain.
+                s.push((long long)2 * val - minval);
+
+                // Ab current minimum update ho jayega
+                minval = val;
+            }
+            else {
+
+                // Agar new value minimum se badi ya equal hai
+                // to usse normally push kar do
+                s.push(val);
+            }
+        }
+
     }
 
     void pop() {
+
+        // Agar top encoded value hai
+        // (encoded value hamesha current minimum se chhoti hoti hai)
+        if (s.top() < minval) {
+
+            // Previous minimum recover karo
+            // oldMin = 2*currentMin - encodedValue
+            minval = 2 * minval - s.top();
+        }
+
+        // Top remove kar do
         s.pop();
     }
 
     int top() {
-        return s.top().first;  // humko value return knri and voh pair mein first pe hai
+
+        // Agar top encoded value hai
+        // to actual top current minimum hi hoga
+        if (s.top() < minval) {
+            return minval;
+        }
+        else {
+
+            // Normal value stored hai
+            return s.top();
+        }
+
     }
 
     int getMin() {
-        return s.top().second; //humne minvalue deni hai jo pair ke second pe haih 
+
+        // Current minimum hamesha minval me stored rehta hai
+        return minval;
+
     }
 };
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(value);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
