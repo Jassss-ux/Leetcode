@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jassss-ux/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Jassss-ux/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jassss-ux/Leetcode/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
 | [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
@@ -198,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Jassss-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Jassss-ux/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Jassss-ux/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jassss-ux/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jassss-ux/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jassss-ux/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jassss-ux/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jassss-ux/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
