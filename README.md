@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jassss-ux/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jassss-ux/Leetcode/tree/master/0739-daily-temperatures) |
+| [0908-smallest-range-i](https://github.com/Jassss-ux/Leetcode/tree/master/0908-smallest-range-i) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
 | [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jassss-ux/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jassss-ux/Leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/Jassss-ux/Leetcode/tree/master/0292-nim-game) |
+| [0908-smallest-range-i](https://github.com/Jassss-ux/Leetcode/tree/master/0908-smallest-range-i) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jassss-ux/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
