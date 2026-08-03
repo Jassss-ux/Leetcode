@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jassss-ux/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Jassss-ux/Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Jassss-ux/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Jassss-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Jassss-ux/Leetcode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0229-majority-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0229-majority-element-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jassss-ux/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Jassss-ux/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Jassss-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Jassss-ux/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Jassss-ux/Leetcode/tree/master/0143-reorder-list) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jassss-ux/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Jassss-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Jassss-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Jassss-ux/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Jassss-ux/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jassss-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Jassss-ux/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jassss-ux/Leetcode/tree/master/0739-daily-temperatures) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jassss-ux/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/Jassss-ux/Leetcode/tree/master/0877-stone-game) |
 | [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
 ## Binary Indexed Tree
