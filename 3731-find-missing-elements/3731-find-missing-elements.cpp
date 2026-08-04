@@ -1,20 +1,27 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        int max1 = *max_element(nums.begin(),nums.end());  //to find max and min element without using loop trick
-        int min1 = *min_element(nums.begin(), nums.end());
-        vector<int>v;
-        unordered_map<int,int>mp;
-        for(int freq: nums){
-            mp[freq]++;
+        int mn = nums[0];
+        int mx = nums[0];
+
+        unordered_set<int> st;
+
+        // Ek hi loop mein min, max aur set fill
+        for (int x : nums) {
+            mn = min(mn, x);
+            mx = max(mx, x);
+            st.insert(x);
         }
-        for(int i=min1+1 ; i < max1;i++){
-            if(mp.find(i)==mp.end()){
-               v.push_back(i);
+
+        vector<int> ans;
+
+        // Missing elements find karo
+        for (int i = mn + 1; i < mx; i++) {
+            if (st.find(i) == st.end()) {
+                ans.push_back(i);
             }
         }
-        return v;
-        
 
+        return ans;
     }
 };
