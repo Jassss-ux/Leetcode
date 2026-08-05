@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jassss-ux/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jassss-ux/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jassss-ux/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Jassss-ux/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jassss-ux/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jassss-ux/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jassss-ux/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
