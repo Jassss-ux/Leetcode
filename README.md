@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/Jassss-ux/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jassss-ux/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Jassss-ux/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jassss-ux/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jassss-ux/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jassss-ux/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/Jassss-ux/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3731-find-missing-elements) |
@@ -288,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jassss-ux/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Jassss-ux/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jassss-ux/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
