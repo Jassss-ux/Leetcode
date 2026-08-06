@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jassss-ux/Leetcode/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jassss-ux/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jassss-ux/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jassss-ux/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Jassss-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Jassss-ux/Leetcode/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jassss-ux/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Jassss-ux/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jassss-ux/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -277,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jassss-ux/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jassss-ux/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
