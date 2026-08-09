@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jassss-ux/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Jassss-ux/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Jassss-ux/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Jassss-ux/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jassss-ux/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jassss-ux/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jassss-ux/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Jassss-ux/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Jassss-ux/Leetcode/tree/master/0567-permutation-in-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jassss-ux/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jassss-ux/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Jassss-ux/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jassss-ux/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Jassss-ux/Leetcode/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jassss-ux/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Jassss-ux/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Jassss-ux/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Jassss-ux/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jassss-ux/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Jassss-ux/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
