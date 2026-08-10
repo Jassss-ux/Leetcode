@@ -9,7 +9,7 @@ public:
         while (right < n) {
             freq[nums[right]]++;
 
-            while (freq.size() > 2) {
+            if(freq.size() > 2) {
 
                 freq[nums[left]]--;
 
