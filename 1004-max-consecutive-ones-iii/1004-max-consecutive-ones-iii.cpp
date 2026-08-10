@@ -20,7 +20,7 @@ public:
 
             // Agar window mein k se zyada zeros hain,
             // toh left se elements remove karo
-            if (zerocount > k) {
+            if (zerocount > k) {  //IDHR WHILE(ZEROCOUNT < K ) BHI LAG SKHTA H BUT USSE TC = 0(2N) TOH TO REDUCE THIS WE USE IF SEE THE CODE TEMPLATE OF SLIDING WINDOW THIS THE OPTIMAZATION THAT TAKES THE TC= O(N)
 
                 // Agar left wala element 0 hai,
                 // toh zero count decrease karo
