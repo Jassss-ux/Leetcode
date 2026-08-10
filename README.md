@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Jassss-ux/Leetcode/tree/master/0908-smallest-range-i) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
 | [1395-count-number-of-teams](https://github.com/Jassss-ux/Leetcode/tree/master/1395-count-number-of-teams) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jassss-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jassss-ux/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jassss-ux/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jassss-ux/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jassss-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jassss-ux/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Jassss-ux/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jassss-ux/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jassss-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
