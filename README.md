@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Jassss-ux/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jassss-ux/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jassss-ux/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3668-restore-finishing-order](https://github.com/Jassss-ux/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Jassss-ux/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Jassss-ux/Leetcode/tree/master/3731-find-missing-elements) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Jassss-ux/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jassss-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jassss-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
