@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Jassss-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0908-smallest-range-i](https://github.com/Jassss-ux/Leetcode/tree/master/0908-smallest-range-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jassss-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jassss-ux/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jassss-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jassss-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Jassss-ux/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Jassss-ux/Leetcode/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jassss-ux/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1051-height-checker](https://github.com/Jassss-ux/Leetcode/tree/master/1051-height-checker) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jassss-ux/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jassss-ux/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Jassss-ux/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Jassss-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jassss-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jassss-ux/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jassss-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jassss-ux/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Jassss-ux/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Jassss-ux/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jassss-ux/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jassss-ux/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jassss-ux/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jassss-ux/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jassss-ux/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
