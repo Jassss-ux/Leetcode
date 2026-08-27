@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jassss-ux/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Jassss-ux/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Jassss-ux/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jassss-ux/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/Jassss-ux/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Jassss-ux/Leetcode/tree/master/2540-minimum-common-value) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jassss-ux/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/Jassss-ux/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jassss-ux/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jassss-ux/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jassss-ux/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Jassss-ux/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jassss-ux/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jassss-ux/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
