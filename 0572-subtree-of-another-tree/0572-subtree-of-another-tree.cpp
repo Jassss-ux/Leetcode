@@ -15,26 +15,26 @@ public:
 
     // This function checks whether two trees are exactly identical.
     // Same structure + same values at every node.
-    bool identical(TreeNode* root, TreeNode* subRoot) {
+    bool identical(TreeNode* p, TreeNode* q) {
 
         // If both nodes are NULL, they are identical.
         // If only one is NULL, they are not identical.
-        if (root == NULL || subRoot == NULL) {
-            return root == subRoot;
+        if (p== NULL || q == NULL) {
+            return p== q;
         }
 
         // Check whether the left subtrees are identical.
-        bool substreeeinleft = identical(root->left, subRoot->left);
+        bool substreeeinleft = identical(p->left, q->left);
 
         // Check whether the right subtrees are identical.
-        bool substreeeinright = identical(root->right, subRoot->right);
+        bool substreeeinright = identical(p->right, q->right);
 
         // Trees are identical only if:
         // 1. Current node values are same
         // 2. Left subtrees are identical
         // 3. Right subtrees are identical
         return substreeeinleft && substreeeinright &&
-               (root->val == subRoot->val);
+               (p->val == q->val);
     }
 
 
