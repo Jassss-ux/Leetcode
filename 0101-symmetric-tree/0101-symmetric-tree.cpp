@@ -9,25 +9,54 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
-    bool check( TreeNode* p, TreeNode* q){
-        if(p == NULL || q==NULL){
-            return p==q;
-        } 
+
+    // Ye function check karega ki p aur q
+    // ek dusre ke mirror hain ya nahi
+    bool check(TreeNode* p, TreeNode* q) {
+
+        // Agar p ya q mein se koi ek NULL hai,
+        // toh dono NULL hone chahiye tabhi mirror honge
+        //
+        // p == q:
+        // Dono NULL  -> true
+        // Ek NULL     -> false
+        if(p == NULL || q == NULL) {
+            return p == q;
+        }
+
+        // Mirror nodes ki values same honi chahiye
+        // Agar values different hain toh symmetric nahi hai
         if(p->val != q->val) {
             return false;
         }
 
-        bool leftmirror = check(p->left , q->right);
-        bool rightmirror = check(p->right , q->left);
+        // p ka LEFT subtree
+        // q ke RIGHT subtree ka mirror hona chahiye
+        bool leftmirror = check(p->left, q->right);
+
+        // p ka RIGHT subtree
+        // q ke LEFT subtree ka mirror hona chahiye
+        bool rightmirror = check(p->right, q->left);
+
+        // Dono conditions true honi chahiye:
+        // 1. Left of p == Right of q
+        // 2. Right of p == Left of q
         return leftmirror && rightmirror;
     }
+
     bool isSymmetric(TreeNode* root) {
-        if( root == NULL){
+
+        // Agar tree empty hai,
+        // toh obviously symmetric hai
+        if(root == NULL) {
             return true;
         }
-        return check(root->left,root->right);
-        
+
+        // Root ke left aur right subtree ko
+        // mirror ke form mein compare karenge
+        return check(root->left, root->right);
     }
 };
